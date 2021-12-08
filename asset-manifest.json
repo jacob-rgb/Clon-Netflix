@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Clon-Netflix/static/css/main.e14d92ba.chunk.css",
+    "main.js": "/Clon-Netflix/static/js/main.c6ae2aa1.chunk.js",
+    "main.js.map": "/Clon-Netflix/static/js/main.c6ae2aa1.chunk.js.map",
+    "runtime-main.js": "/Clon-Netflix/static/js/runtime-main.94270efa.js",
+    "runtime-main.js.map": "/Clon-Netflix/static/js/runtime-main.94270efa.js.map",
+    "static/js/2.98dda634.chunk.js": "/Clon-Netflix/static/js/2.98dda634.chunk.js",
+    "static/js/2.98dda634.chunk.js.map": "/Clon-Netflix/static/js/2.98dda634.chunk.js.map",
+    "index.html": "/Clon-Netflix/index.html",
+    "static/css/main.e14d92ba.chunk.css.map": "/Clon-Netflix/static/css/main.e14d92ba.chunk.css.map",
+    "static/js/2.98dda634.chunk.js.LICENSE.txt": "/Clon-Netflix/static/js/2.98dda634.chunk.js.LICENSE.txt",
+    "static/media/Fondo-Login.9e70a20d.jpg": "/Clon-Netflix/static/media/Fondo-Login.9e70a20d.jpg",
+    "static/media/Logo.774e8c16.png": "/Clon-Netflix/static/media/Logo.774e8c16.png",
+    "static/media/Prueba-banner.bdce24cb.jpeg": "/Clon-Netflix/static/media/Prueba-banner.bdce24cb.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.94270efa.js",
+    "static/js/2.98dda634.chunk.js",
+    "static/css/main.e14d92ba.chunk.css",
+    "static/js/main.c6ae2aa1.chunk.js"
+  ]
+}
